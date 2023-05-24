@@ -1,0 +1,9 @@
+FLASK==2.1.0
+flask-cors
+flask-restful
+flask-wtf
+gunicorn
+pymongo
+nltk
+apscheduler
+snscrape

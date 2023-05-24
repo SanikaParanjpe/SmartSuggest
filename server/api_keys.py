@@ -1,0 +1,1 @@
+news_catcher_api_key = 'gZ4o8mt-cest-GRH7NoMyz0v3iz1ZZY9145hJ7NCAio'
